@@ -1,0 +1,19 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "“叶族人有他们低劣的原始长矛，而我有我可靠的刺刀。”
+5.45x39毫米口径突击步枪，源自旧地球卡拉什尼科夫系列步枪。于1974年作为AKM的替代品开发，使用当时最新的5.45x39毫米口径子弹。这把枪在殖民地党派运动中很受欢迎，也曾被用于USCM-叶族战争期间对抗可疑的叶族部落。使用标准化协议-USM 5.45x39毫米口径弹匣。
+^orange;孤注一掷: 0.4秒招架时机 | 150HP稳定值^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "1974年型卡拉什尼科夫自动步枪[LFW]"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "^orange;突击步枪^reset;"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "“两点钟方向发现敌人，各就各位，准备接敌。”\n动力核心MP5的一种特种型号，专为敌后特战队和精英秘密行动部队设计。MP5SD内置抑制器，是隐蔽行动的理想选择。MP5SD体积相对小巧，重量轻，是在近距离环境下执行渗透任务的理想武器。\n^green;按住“副手开火键”可在全自动和半自动间来回切换。^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "动力核心MP5SD[LFW]"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "^orange;冲锋枪^reset;"
+  }
+]

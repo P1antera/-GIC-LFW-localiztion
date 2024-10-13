@@ -1,0 +1,18 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "“联合军喜欢一次又一次地制作基于同一武器的不同变体，但每次的口味又有些许不同。”
+目前联合系统的5.45x39毫米口径军用步枪。它与USM60一起开发，在机械结构上与USM系列相似，但拥有更轻的武器主体、多个连接导轨、可调节的枪托，甚至更简单的拆卸方法。使用标准化协议-USM 5.45x39毫米口径弹匣。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "USM90[LFW]"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "^orange;突击步枪^reset;"
+  }
+]

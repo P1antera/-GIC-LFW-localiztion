@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "被各种私人枪支制造商采用的9x19mm弹鼓。每个鼓弹匣50发。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "STANAG-FEDERATSIYA 9x19mm弹鼓 [LFW]"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "弹匣"
+  }
+]

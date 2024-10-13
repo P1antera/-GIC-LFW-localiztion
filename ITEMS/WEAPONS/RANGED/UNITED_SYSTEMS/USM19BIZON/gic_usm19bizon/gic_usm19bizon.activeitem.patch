@@ -1,0 +1,19 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "手枪弹-冲锋枪(Pistolet-Pulemyot)19型“野牛”是为执法人员、安保部队、特种部队和更专业的步兵部队开发的武器。作为一种轻重武器，由于其非常高的弹匣容量，能够轻易执行压制射击，使其非常适合需要近距离火力覆盖的场景。仅使用独特的9x18毫米口径“野牛”管状弹匣。
+
+^green;按住“副手开火键”可在全自动和半自动间来回切换。^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "手枪弹冲锋枪19型“野牛”[LFW]"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "^orange;冲锋枪^reset;"
+  }
+]

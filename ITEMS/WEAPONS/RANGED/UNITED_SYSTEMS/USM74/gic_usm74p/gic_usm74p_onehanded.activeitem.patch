@@ -1,0 +1,21 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "“我们都是被派来杀叶族人的，不是吗？杀人用啥武器有区别吗？！如果必须杀，我干脆用我操蛋的双手得啦！”
+
+USM74的精简版和截短版。在叶族入侵之初，只有少数几个殖民地拥有适当的战争装备。
+
+^green;双击Shift键以换手，可切换为舒适的双手持握法。^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "USM74P (单手) [LFW]"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "^orange;猎枪^reset;"
+  }
+]

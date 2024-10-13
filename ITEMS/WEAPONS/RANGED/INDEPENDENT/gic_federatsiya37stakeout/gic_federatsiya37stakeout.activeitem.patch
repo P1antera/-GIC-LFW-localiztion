@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "经典的木制握把紧凑型近距离突破霰弹枪。这种霰弹枪体积小巧，便于走私到守护团辖区。它可以满足狩猎中对近距离火力的不同需求，在狩猎时，先进的守护团武器通常会造成太大的附带伤害，而不会留下任何值得采食的东西。该枪由联邦军装备，在大多数情况下都很可靠。\n^yellow;可装填18.50x70毫米口径霰弹。^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "联邦37式截短型[LFW]"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "^orange;霰弹枪^reset;"
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "“务必随时把步枪带在身边并上好膛，你永远不知道什么时候会用到。”
+USM74 5.45x39毫米口径突击步枪的A2变体，与USM47A2一同开发，提供了更高的整体工业质量标准，减少了笨重的不舒适的后坐力运动和武器的过度磨损。大多数型号是在2660年之后制造的，也就是USM47A2投入批量生产几个月后。使用标准化协议-USM 5.45x39毫米口径弹匣。
+^green;按住“副手开火键”可在全自动和半自动间来回切换。^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "USM74A2[LFW]"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "^orange;突击步枪^reset;"
+  }
+]

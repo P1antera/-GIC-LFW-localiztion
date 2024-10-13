@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "给PP-19野牛使用的96发9x18mm扩容弹匣"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "96发9x18mm PP-19野牛扩容弹匣[LFW]"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "弹匣"
+  }
+]

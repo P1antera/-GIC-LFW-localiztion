@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "被各种私人枪支制造商采用的9x19mm弹匣。每个弹匣有30发。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "STANAG-FEDERATSIYA 9x19mm弹匣 [LFW]"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "弹匣"
+  }
+]

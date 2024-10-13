@@ -1,0 +1,18 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "“那些叶族人吃了我的家人和我最好的朋友。有了这把可靠的步枪在我身边，我要一直杀下去，直到所有的野蛮叶族人都滚回属于他们的地方。”
+7.62x39毫米口径突击步枪。在2655年叶族入侵人类期间，作为USM47的衍生产品，为特种部队和更先进的步兵部队开发。USM47M能够安装各种配件，提高了模块化和灵活性。使用标准化协议-USM 7.62x39毫米口径弹匣。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "USM47M[LFW]"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "^orange;突击步枪^reset;"
+  }
+]

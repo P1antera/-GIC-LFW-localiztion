@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "84mm无后座炮弹,具有特殊的^#FFDD00;近炸引信^reset; 能在目标周围爆炸, 向敌人射出破片. 不用多说, 与破甲弹不同,它 ^#FFDD00;不能有效针对重型装甲载具.^reset; 这种炮弹在空旷的战场环境很有效,可以有效地针对移动目标或掩体后的目标. ^#FFDD00;只能用于8.4cm卡尔古斯塔夫无后座炮.^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "84mm无后座近炸引信炮弹 ^#FFDD00;[空爆]^reset; [LFW]"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "炮弹"
+  }
+]

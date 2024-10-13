@@ -1,0 +1,19 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "PP-19野牛冲锋枪的9x19毫米口径变体，比其前身有更高的整体工业质量标准。由于使用了更大的9x19毫米口径弹药，弹匣容量略有缩小。但是，与同级别的其他高端冲锋枪相比，这种武器的性能仍具有竞争力。仅使用独特的9x19毫米口径PP-19“野牛”-2-01管状弹匣。
+
+^green;按住“副手开火键”可在全自动和半自动间来回切换。^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "手枪弹冲锋枪19型“野牛”-2-01[LFW]"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "^orange;冲锋枪^reset;"
+  }
+]

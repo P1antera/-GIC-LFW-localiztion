@@ -1,0 +1,19 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "“又倒下一个,那些植物杂毛甚至还没反应过来就死了。”
+M24狙击步枪在USCM-叶族战争期间被熟练的狙击手和射手广泛使用，用于追捕叶族部落首领等高价值目标，或者只是射杀任何远处的不幸叶族人。
+使用单发7.62x51毫米口径子弹装填。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "M24狙击步枪[IFW]"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "^orange;栓动步枪^reset;"
+  }
+]

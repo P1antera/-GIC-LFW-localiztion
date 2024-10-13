@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "84mm高爆两用炮弹，用于摧毁掩体、防御工事和轻型载具。\n\n这种炮弹类型具有巨大的震荡爆炸力，在保证其反坦克能力的同时，可透过墙壁造成重大破坏。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "84mm高爆两用无后座炮弹[LFW]"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "炮弹"
+  }
+]

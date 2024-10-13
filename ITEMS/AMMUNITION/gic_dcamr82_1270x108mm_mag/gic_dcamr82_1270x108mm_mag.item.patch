@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "给动力核心反器材步枪82使用的10发12.7x108mm弹匣。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "DCAMR82 10发弹匣 [LFW]"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "弹匣"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "“嫌疑犯持有武器，十分危险，准备开火。”\n作为一把5.56x45毫米口径无托式卡宾步枪。与同类产品相比，动力核心无托式卡宾步枪拥有较高的射速，但无法安装下挂配件。DCBCaR 设计紧凑，可用于手枪口径SMG或PDW可能没有足够停止力的近距离作战环境。使用标准化协议-联邦5.56x45毫米口径弹匣。\n^green;按住“副手开火键”可在全自动和半自动间来回切换。^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "动力核心无托式卡宾步枪[LFW]"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "^orange;突击步枪^reset;"
+  }
+]

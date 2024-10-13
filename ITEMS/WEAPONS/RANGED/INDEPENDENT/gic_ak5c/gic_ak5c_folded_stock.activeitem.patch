@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "一种卡宾枪，在叶族入侵人类期间曾有过有限的使用。它曾是旧地球国家瑞典的标准配置步枪。这种武器主要设计用于严寒的冬季条件，其坚固耐用的特点使其成为在寒冷气候条件下作战的武装部队的理想选择。使用标准化协议-联邦5.56x45毫米口径弹匣。\n^orange;双击Shift键以展开枪托提高人体工学和可控性，但会牺牲机动性和速度。^reset;\n^green;按住“副手开火键”可在全自动和半自动间来回切换。^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "自动卡宾枪5C（折叠枪托）[LFW]"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "^orange;突击步枪^reset;"
+  }
+]

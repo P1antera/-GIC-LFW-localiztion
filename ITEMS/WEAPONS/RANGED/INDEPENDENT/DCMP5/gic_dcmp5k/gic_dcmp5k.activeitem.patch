@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "“总统先生，趴下，跟我走！”\n“K”或“Kurz”，即“短”之意的MP5变体是一种紧凑型个人防卫武器，常用于执法人员、安保部队和保镖。动力核心MP5K也因其易于隐藏的小巧尺寸而受到犯罪分子的青睐。配有不可拆卸的内置垂直前握把。使用标准化协议-联邦9x19毫米口径弹匣。\n^green;按住“副手开火键”可在全自动和半自动间来回切换。^reset;\n^yellow;双击Shift键以换手，可切换为实用性存疑的单手持握法。^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "动力核心MP5K[LFW]"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "^orange;个人防卫武器^reset;"
+  }
+]

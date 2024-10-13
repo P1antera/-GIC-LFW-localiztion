@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "''他们最不可能想到的就是他们会被打回原形，卷入一场防御战，他们可真是大错特错。''\n加利尔SAR是加利尔ARM的一种更加''现代化''的短管变体，通常配发给车组人员、军队参谋人员和特种部队。与其他AK衍生武器一样，该枪极其可靠，至今仍与加利尔ARM一起作为5.56x45毫米口径的经济型武器在银河系各地广泛使用。使用标准化协议-联邦5.56x45毫米口径弹匣。\n^green;按住“副手开火键”可在全自动和半自动间来回切换。^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "加利尔SAR[LFW]"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "^orange;突击步枪^reset;"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "“早上好~~~越南!”\n这款传奇的通用机枪使用7.62×51毫米口径重型子弹，自1957年问世以来经受住了时间的考验。从旧地球越南的丛林到无数外星球的异世界丛林和森林。这种武器及其变体在USCM-叶族战争中被广泛使用，至今仍被银河系各地的军队、政府、安全部门、执法部门、甚至是叛乱分子和犯罪组织广泛使用。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "M60E4[LFW]"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "^orange;通用机枪^reset;"
+  }
+]

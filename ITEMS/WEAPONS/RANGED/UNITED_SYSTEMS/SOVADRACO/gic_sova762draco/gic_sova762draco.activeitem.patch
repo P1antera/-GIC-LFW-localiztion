@@ -1,0 +1,19 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "一把7.62x39毫米口径的狩猎卡宾枪，已经经过^red;非法改装^reset;，现可^yellow;进行全自动射击^reset;。 与USM47A2具有类似的性能表现。然而，由于是进行了^red;非法改装^reset;获得的全自动射击模式，其坏的比USM47A2快。^yellow;尽管如此，它的精确性，耐用性和通用性依然胜于USM74的最初型号^reset;。
+使用标准化协议-USM 7.62x39毫米口径弹匣。
+^green;按住“副手开火键”可在全自动和半自动间来回切换。^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "猎枭-762“德拉科”[LFW]"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "^red;非法改装的狩猎步枪^reset;"
+  }
+]

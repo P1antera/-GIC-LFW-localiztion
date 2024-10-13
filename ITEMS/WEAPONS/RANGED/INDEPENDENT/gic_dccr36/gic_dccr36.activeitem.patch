@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "标准的现代卡宾枪。动力核心卡宾步枪“叁陆”型是动力核心从更早的联合系统殖民海军陆战队私营军事公司转型后生产的首批武器之一。后来，由于可靠性问题，它被动力核心防御步枪“伍壹陆”型所取代，但至今仍在全银河系广泛使用。使用与USCM4和DCDR516相同的标准化协议-联邦5.56x45毫米口径弹匣。\n^green;按住“副手开火键”可在全自动和半自动间来回切换。^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "动力核心卡宾步枪“叁陆”型[LFW]"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "^orange;突击步枪^reset;"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "一款7.62x51毫米口径的高精度半自动猎枪。其基于星系联合型（USM）枪族开发，外观、重量和尺寸完全相同。旨于专业和业余的小型猎物狩猎，以及运动用途。它也足够精确，可以用作一种临时的简易射手步枪。锤式击发机构仅能进行单发射击。使用7.62x51毫米口径战斗步枪弹匣。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "猎枭-308[LFW]"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "^orange;猎枪^reset;"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "“不用担心，我们会夺回属于我们的一切。”\nQBZ97式步枪是一种采用5.56×45毫米口径的无托式突击步枪。它的原型是旧中华人民共和国的标准配发步枪：QBZ95式步枪。根据古事记记载，QBZ97式是QBZ95式步枪的出口型，使用5.56x45毫米口径子弹，而非国产的5.8x42毫米口径子弹。使用标准化协议-联邦5.56x45毫米口径弹匣。\n^green;按住“副手开火键”可在全自动和半自动间来回切换。^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "QBZ97式[LFW]"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "^orange;突击步枪^reset;"
+  }
+]

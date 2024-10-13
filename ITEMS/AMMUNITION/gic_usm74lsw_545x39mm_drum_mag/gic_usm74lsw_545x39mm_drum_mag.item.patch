@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "仅可用于RPK74(不可用于现代化变体).5.45x39mm的弹鼓,内含95发弹药."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "RPK74 5.45x39mm弹鼓 [LFW]"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "弹匣"
+  }
+]

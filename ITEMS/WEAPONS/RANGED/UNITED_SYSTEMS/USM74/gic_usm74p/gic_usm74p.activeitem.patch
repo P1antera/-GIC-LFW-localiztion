@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "“我告诉过你该停火了。你应该保持观察对吧？然后你他妈还搁着抬着步枪！”
+
+USM74的精简截短版。在叶族入侵开始时，只有少数殖民地配备了适当的装备来打仗。
+^orange;野蛮人：按住“副手开火键”可使用附带的刺刀。^reset;
+
+^green;双击Shift键以换手，可切换为实用性存疑的单手持握法。^reset; "
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "USM74P [LFW]"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "^orange;猎枪^reset;"
+  }
+]

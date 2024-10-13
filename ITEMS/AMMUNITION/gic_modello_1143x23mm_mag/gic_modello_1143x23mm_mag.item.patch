@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "8发莫德洛型11.43x23mm(.45)弹匣"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "莫德洛11.43x23mm弹匣 [LFW]"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "弹匣"
+  }
+]

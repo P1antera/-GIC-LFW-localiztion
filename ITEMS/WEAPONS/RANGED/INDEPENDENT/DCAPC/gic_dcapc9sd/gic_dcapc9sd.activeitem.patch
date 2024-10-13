@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "动力核心先进警用卡宾枪9型的特种版本，专为敌后特战队和精英秘密行动部队设计。动力核心APC9的“SD”改型内置了一个抑制器，使其成为隐秘行动的理想选择。动力核心APC9SD与MP5SD一样，体积相对小巧，重量轻，是在近距离环境下执行渗透任务的理想武器。使用标准化协议-联邦9x19毫米口径弹匣。\n^green;按住“副手开火键”可在全自动和半自动间来回切换。^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "动力核心先进警用卡宾枪9SD型[LFW]"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "^orange;冲锋枪^reset;"
+  }
+]

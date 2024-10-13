@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "包含两枚84mm近炸引信炮弹[LFW],可用于8.4cm卡尔古斯塔夫无后座炮[LFW]."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "双联装84mm无后座近炸炮弹[LFW]"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "弹药箱"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "只能给RPK使用的7.62x39mm弹鼓,内含75发弹药."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "75发RPK 7.62x39mm弹鼓[LFW]"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "弹匣"
+  }
+]

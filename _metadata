@@ -1,0 +1,11 @@
+{
+  "author" : "plantera",
+  "description" : "[h1][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2983581962]原MOD点击这里\nOriginal Mod Click Here[/url][/h1]\n\n这是GIC-LFW武器拓展的汉化,原mod加入了一些额外的GIC枪械.\nThis is Localization of LFW expansion pack.\n\n[h1]目前汉化进度为100%[/h1]\n所有内容已汉化完成\n校对已完成\n\n\n这是一个长期维护的MOD,后续将随着原MOD的更新而更新(毕竟原作者也是要立志做下去的:p)\n\n[h1]维护日志:[/h1]\n********************************************************************\n\n//           7/20    16:40                //\n[b]发现已知问题:[/b]\n1.部分枪械描述文本里有小方块,不影响阅读与游玩,后续会修.\n\n\n//           7/20    22:20                //\n[b]已修复:[/b]\n1.小方块问题\n[b]新增:[/b]\n弹药部分的汉化.\n\n\n//           7/21    19:20                //\n[b]新增:[/b]\n两个旗子的汉化\n\n\n//           7/21    23:30                //\n[b]新增:[/b]\n独立武器部分的汉化\n********************************************************************\n\n[h1]如果遇到问题请务必在评论区留言,我会第一时间修![/h1]\n目前我暂时没时间把所有枪械都检查一遍\n以及对汉化方面有好的建议也欢迎指出!\n\n\n[h1]特别感谢:[/h1]\n-负责翻译独立武器部分和校对的塑心(给大佬磕一个)\n-允许我制作本地化patch的原作者\n\n[b]后续有时间的话会把社区里其他GIC拓展都汉化一下的,吧?[/b]\n\n[h1]Credit\n著作权为LFW的原作者YveltalZekrom所有!\nThe Original Author： @YveltalZekrom![/h1]",
+  "friendlyName" : "[汉化]GIC_LFW拓展简中汉化/GIC_LFW exp Localization",
+  "includes" : ["GiC_Weapons_Pack"],
+  "link" : "steam://url/CommunityFilePage/3293031794",
+  "name" : "LFWlocalization",
+  "steamContentId" : "3293031794",
+  "tags" : "Weapons|User Interface",
+  "version" : "5.2"
+}

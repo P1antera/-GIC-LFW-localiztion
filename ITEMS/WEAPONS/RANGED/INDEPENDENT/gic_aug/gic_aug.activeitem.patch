@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "陆军通用步枪是一种无托式突击步枪，曾是许多旧地球国家的标准配发步枪，源自一个叫奥地利的旧地球国家，代号为 Sturmgewehr 77。在USCM-叶族战争期间，这种武器也参加了相当数量的战斗，但与陆军通用步枪相比，其他武器平台（如AK或AR型步枪）明显更受青睐。这种步枪经受住了时间的考验，至今仍在银河系各地使用。使用标准化协议-联邦5.56x45毫米口径弹匣。\n^green;按住“副手开火键”可在全自动和半自动间来回切换。^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "陆军通用步枪[LFW]"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "^orange;突击步枪^reset;"
+  }
+]

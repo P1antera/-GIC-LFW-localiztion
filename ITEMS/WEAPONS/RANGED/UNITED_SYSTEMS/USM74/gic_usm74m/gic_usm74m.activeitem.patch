@@ -1,0 +1,19 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "“我见过很多叶族人，他们中的一些人很聪明，尽管他们是原始的野蛮人。但我从来没有，一次也没见过一个叶族人聪明到可以胜过子弹。”
+5.45x39毫米口径突击步枪。USM74M是USM74的衍生型号，在2655年叶族入侵人类期间为特种部队和更先进的步兵部队开发。USM74M 可以安装各种附件，提高了模块化和灵活性。使用标准化协议-USM 5.45x39毫米口径弹匣
+^green;按住“副手开火键”可在全自动和半自动间来回切换。^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "USM74M [LFW]"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "^orange;突击步枪^reset;"
+  }
+]

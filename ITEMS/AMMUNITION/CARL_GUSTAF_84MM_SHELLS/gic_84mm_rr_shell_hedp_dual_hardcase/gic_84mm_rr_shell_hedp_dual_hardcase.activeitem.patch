@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "包含两枚给8.4cm卡尔古斯塔夫无后座炮[LFW]用的高爆两用炮弹[LFW]."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "双联装84mm高爆两用炮弹箱"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "弹药箱"
+  }
+]

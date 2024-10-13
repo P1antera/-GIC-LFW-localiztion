@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "“丸辣,内务部派出了阿尔法小组。”
+科沙诺夫通用自动步枪971型的7.62x39毫米口径变体。由于其昂贵的价格和较高的维护成本，即便它具有优越的全自动精度和每分钟900发的极高射速，其他AK变种也都比这种武器更受欢迎。使用标准化协议-USM 7.62x39毫米口径弹匣。
+^orange;双击Shift键以折叠枪托提高机动性和速度，但会牺牲人体工学和可控性。^reset;
+^green;按住“副手开火键”可在全自动和半自动间来回切换。^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "科沙诺夫通用自动步枪973型[LFW]"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "^orange;突击步枪^reset;"
+  }
+]

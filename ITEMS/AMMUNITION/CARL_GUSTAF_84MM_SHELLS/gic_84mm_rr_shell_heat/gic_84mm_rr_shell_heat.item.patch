@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "84mm反坦克破甲弹，用于摧毁装甲载具或以其他方式穿透纵深防御工事。\n\n这种炮弹的装药比高爆两用弹少得多，也意味着它的后效有所衰减。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "84mm无后座炮破甲弹 [LFW]"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "炮弹"
+  }
+]

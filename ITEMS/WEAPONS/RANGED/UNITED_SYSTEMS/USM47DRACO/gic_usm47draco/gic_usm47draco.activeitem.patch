@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "“所以我掏出这把小宝贝干掉了那些杂种。”
+AK“德拉科”本质上是一种被截短的AKM，最初是为安保部队、执法人员和特种部队开发的，用于小口径冲锋枪没有足够的停止能力时的近距离战斗场景。这种武器因其易于隐藏的紧凑尺寸在罪犯中很受欢迎。使用标准化协议-USM 7.62x39毫米口径弹匣。
+^green;按住“副手开火键”可在全自动和半自动间来回切换。^reset;
+^yellow;双击Shift键以换手，可切换为实用性存疑的单手持握法。^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "AK“德拉科”[LFW]"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "^orange;个人防卫武器^reset;"
+  }
+]

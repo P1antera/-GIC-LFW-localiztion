@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "包含两枚84mm无后座炮破甲弹 [LFW] 可用于卡尔古斯塔夫无后座炮[LFW]"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "双联装84mm无后座破甲弹"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "弹药箱"
+  }
+]

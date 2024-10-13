@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "给PP-19-2-01型野牛使用的9x19mm弹匣."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "PP-19-2-01野牛53发管型弹匣 [LFW]"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "弹匣"
+  }
+]

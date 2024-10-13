@@ -1,0 +1,19 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "“某些聪明人认为他们可以装一堆皮卡汀尼导轨在枪上然后称其为‘圣诞树’或类似的东西。”
+7.62x39毫米口径突击步枪。作为USM47A2的衍生产品，为联合系统的特种部队和更先进的步兵部队开发。USM47M2能够安装各种配件，提高了模块化和灵活性。这种武器后来被更通用的USM60所取代。使用标准化协议-USM 7.62x39毫米口径弹匣。
+^green;按住“副手开火键”可在全自动和半自动间来回切换。^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "USM47M2[LFW]"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "^orange;突击步枪^reset;"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "“这是什么鬼东西？这就是一根能发射点45口径弹的劣质金属管。”\nM3A1“黄油枪”实际上是一种发射11.43×23毫米口径重型手枪弹的管状枪，其设计目的是尽可能降低成本。这种武器采用更便宜、更简单的金属板结构，旨在取代价格昂贵、重量更大的汤姆逊冲锋枪。使用30发M1A1直列弹匣。\n^orange;坦克手：0.6秒招架时机 | 100HP稳定值^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "M3A1“黄油枪”[LFW]"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "^orange;冲锋枪 | 不支持下挂式榴弹发射器。^reset;"
+  }
+]

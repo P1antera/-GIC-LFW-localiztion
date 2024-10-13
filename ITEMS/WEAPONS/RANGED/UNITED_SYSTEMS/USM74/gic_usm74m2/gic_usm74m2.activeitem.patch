@@ -1,0 +1,19 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "“他们以为我们现在是特种部队，就因为我们的武器有几个花哨的战术皮卡汀尼导轨附件。”
+5.45x39毫米口径突击步枪。作为USM74A2的衍生产品，为联合系统的特种部队和更先进的步兵部队开发。USM74M2可以安装各种附件，提高了模块化和灵活性。这种武器后来被更通用的USM90所取代。使用标准化协议-USM 5.45x39毫米口径弹匣
+^green;按住“副手开火键”可在全自动和半自动间来回切换。^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "USM74M2 [LFW]"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "^orange;突击步枪^reset;"
+  }
+]

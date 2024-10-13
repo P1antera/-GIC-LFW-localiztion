@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "''就算是一匹神奇的小马在天空中飞翔，我也不在乎，把它射下来就完了！''\nZSU-23-4石勒喀塔近身武器系统（星舰点防御复制品生产模型）:发射一枚 ^yellow;信标^reset; 指引 ^orange;指引你的飞船向信标处发射一轮23mm高爆弹.^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "ZSU-23-4石勒喀23mm HE自动火炮CIWS协调器 [LFW]"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "^#E0EAFF;异星膛身管件^white;"
+  }
+]

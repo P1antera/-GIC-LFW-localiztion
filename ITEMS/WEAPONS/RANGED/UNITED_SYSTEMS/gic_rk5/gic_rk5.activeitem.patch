@@ -1,0 +1,19 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "7.62x39毫米口径线性突击步枪K型5式。接受标准化协议-USM7.62x39毫米口径弹匣。就在他们与联合系统和平分裂之前，独立联盟委托各武器制造商为他们的新兴国家开发一种新步枪。RK-5是后来生产的5.45x39毫米口径RK-6步枪的7.62x39毫米口径原型前身，最终竞标成功.
+
+^green;按住“副手开火键”可在全自动和半自动间来回切换。^reset; "
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "RK-5 [LFW]"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "^orange;突击步枪^reset;"
+  }
+]

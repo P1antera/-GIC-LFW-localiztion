@@ -1,0 +1,18 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "一支7.62x51毫米口径的猎枪，已经进行^red;非法改装^reset;能够^yellow;全自动射击^reset;。与FAL具有类似的性能表现。然而，它仍并非是一把正儿八经的全自动步枪，经^red;非法改装后^reset;拥有的全自动使它坏的比FAL还快。^yellow;不过，它射得还是比FAL准。^reset;
+^green;按住“副手开火键”可在全自动和半自动间来回切换。^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "猎枭-762“德拉科”[LFW]"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "^red;非法改装的全自动猎枪^reset;"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "一种标准的现代突击步枪，可在几乎任何环境中完美使用。作为动力核心防御步枪“伍壹陆”型的竞争对手，USOA556重量轻、模块化、操作简单，而且比DCDR516更精确。遗憾的是，USOA556与DCDR516相比并不受欢迎，因为它需要经常维护才能保持高精度。它只是AR平台的众多衍生产品之一。使用标准化协议-联邦5.56x45毫米口径弹匣。\n^green;按住“副手开火键”可在全自动和半自动间来回切换。^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "联合系统军械武器556[LFW]"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "^orange;突击步枪^reset;"
+  }
+]

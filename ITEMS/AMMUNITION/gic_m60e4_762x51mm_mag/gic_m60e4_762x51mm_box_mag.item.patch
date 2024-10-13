@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "给M60E4使用的100发7.62x51mm弹药箱"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "M60E4 7.62x51mm弹药箱 [LFW]"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "弹药箱"
+  }
+]

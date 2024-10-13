@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "无论你是需要提供极大的压制火力来抵御敌人的攻击，还是要实现你的动作片英雄梦，都要记住一件事；让那些共产党混蛋尝尝真正的自由和民主，送他们下地狱吧嗒嗒嗒嗒嗒嗒嗒嗒嗒嗒嗒嗒嗒嗒嗒!(原文真是这样的)"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "1000发7.62x51mm M60E4兰博弹链 [LFW]"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "弹链"
+  }
+]

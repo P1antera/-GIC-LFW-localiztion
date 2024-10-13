@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "一种传奇的冲锋枪平台，自1966年问世以来经受住了时间的考验。MP5之于冲锋枪的地位,就和AK和AR平台之于突击步枪的地位一样。MP5及其变体在历史上由许多不同的公司生产，从最初的旧地球德国黑克勒-科赫公司（Heckler & Koch），到联合系统殖民海军陆战队私营军事公司（United Systems Colonial Marines Private Military Company），再到现在的动力核心。配有内置手电筒。使用标准化协议-联邦9x19毫米口径弹匣。\n^green;按住“副手开火键”可在全自动和半自动间来回切换。^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "动力核心MP5[LFW]"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "^orange;冲锋枪^reset;"
+  }
+]

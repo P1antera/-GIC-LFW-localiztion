@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "犊牛式太空突击步枪90曾作为BVAR-80的替代品，被集体发放给加兹里殖民地统一军。这是一种用于地面和太空战的标准步枪.目前仅有USCM在生产这种步枪，最初的设计被认为在加兹里遭到燃烧航弹袭击后已经丢失。其后在加兹里出现BVAR-90均为复制品，通常由陨日武装分子生产，作为他们自己的次级标准步枪。仅使用标准化协议-USM5.45x39毫米口径弹匣。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "BVAR-90 [LFW]"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "^orange;突击步枪^reset;"
+  }
+]

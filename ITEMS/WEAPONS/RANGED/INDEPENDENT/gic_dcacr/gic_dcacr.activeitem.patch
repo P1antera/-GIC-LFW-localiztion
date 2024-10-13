@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "动力核心自适应战斗步枪本应是替代动力核心防御步枪“伍壹陆”型的下一代步枪。不幸的是，这种步枪相当昂贵，最终只生产了有限的数量。因此，动力核心防御步枪“伍壹陆”型仍然作为标准服役。使用标准化协议-联邦5.56x45毫米口径弹匣。\n^orange;双击Shift键以折叠枪托提高机动性和速度，但会牺牲人体工学和可控性。^reset;\n^green;按住“副手开火键”可在全自动和半自动间来回切换。^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "动力核心自适应战斗步枪[LFW]"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "^orange;突击步枪^reset;"
+  }
+]

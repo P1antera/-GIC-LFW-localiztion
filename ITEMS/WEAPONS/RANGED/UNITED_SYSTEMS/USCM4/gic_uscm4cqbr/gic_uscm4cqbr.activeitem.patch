@@ -1,0 +1,18 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "“兄弟，我们这次又遇到什么麻烦了？无所谓，速战速决吧。”
+M4A4近距离作战步枪曾在USCM-叶族战争的后期使用过。使用40x46毫米口径低速高爆榴弹作为其搭载的下挂式榴弹发射器弹药，如果有人愿意，可以选择将其拆除。使用标准化协议-联邦 5.56x45毫米口径弹匣。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "M4A4 CQBR[LFW]"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "^orange;突击步枪^reset;"
+  }
+]

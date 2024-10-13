@@ -1,0 +1,19 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "“叶族人有他们低劣的原始长矛，而我有我可靠的刺刀。”
+源自旧地球卡拉什尼科夫系列步枪的5.45x39毫米口径突击步枪。在2655年叶族入侵人类期间，该枪作为USM47的替代品被开发出来。在 USCM-叶族战争期间，该枪在殖民地游击队运动中大受欢迎，这些游击队运动抵御了疑似联合起来的叶族部落。使用标准化协议-USM 5.45x39毫米口径弹匣。
+^orange;孤注一掷：按住“副手开火键”可使用附带的刺刀。^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "USM74[LFW]"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "^orange;突击步枪^reset;"
+  }
+]

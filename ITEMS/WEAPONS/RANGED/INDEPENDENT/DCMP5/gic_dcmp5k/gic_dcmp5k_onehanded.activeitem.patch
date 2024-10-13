@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "“当你能拿起两挺机枪的时候，为啥还要只端着一挺？”\n“K”或“Kurz”，即“短”之意的MP5变体是一种紧凑型个人防卫武器，常用于执法人员、安保部队和保镖。动力核心MP5K也因其易于隐藏的小巧尺寸而受到犯罪分子的青睐。配有不可拆卸的内置垂直前握把。使用标准化协议-联邦9x19毫米口径弹匣。\n^red;单手持握时无法使用“副手开火键”切换模式。^reset;\n^yellow;双击Shift键以换手，可切换为舒适的双手持握法。^reset; "
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "动力核心MP5K（单手）[LFW]"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "^orange;个人防卫武器^reset;"
+  }
+]
